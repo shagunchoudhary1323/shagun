@@ -4,47 +4,26 @@
 
 ## About Me
 
-** Languages & Frameworks:**
+###  🚀Languages & Frameworks:
+Python (OOP), JavaScript (React.js), Django, Django REST Framework, Flask, HTML, CSS, jQuery, Bootstrap, Celery, BeautifulSoup, Odoo, Django ORM
 
-* Python (OOP)
-* JavaScript (React.js)
-* Django
-* Django REST Framework
-* Flask
-* HTML
-* CSS
-* jQuery
-* Bootstrap
-* Celery
-* BeautifulSoup
-* Odoo
-* Django ORM
+###  🌐Cloud Services:
+AWS (EC2, S3, RDS) server deployment, DigitalOcean
 
-** Cloud Services:**
+###  🔧Tools:
+Jenkins (CI/CD), Ubuntu, GitHub
 
-* AWS (EC2, S3, RDS) server deployment
-* DigitalOcean
+###  🗄️Databases:
+MySQL, PostgreSQL, Redis, MongoDB, Sqlite
 
-** Tools:**
-
-* Jenkins (CI/CD)
-* Ubuntu
-* GitHub
-
-**️ Databases:**
-
-* MySQL
-* PostgreSQL
-* Redis
-* MongoDB
-### Education: 
+###  🎓Education: 
 B.Tech in Computer Science (CGPA: 8.9/10)
 
 
-<!-- - 🔭 Currently working on the [Denama](https://www.denama.com) WebApp.
+<!-- - 🔭 Currently working on the [Denama](https://www.denama.com) WebApp. -->
 - 🌱 Exploring Python Application Development.
 - 👯 Seeking collaboration on Application & Web Development projects.
-- 💬 Ask me about ReactJs, Django, Databases, Deployment, or any tech-related queries. -->
+<!-- - 💬 Ask me about ReactJs, Django, Databases, Deployment, or any tech-related queries. -->
 - 📃 Know about my experiences - [Resume](https://drive.google.com/file/d/1yNUfFtU0rGfDH4poY9uhqXfsXjf5P1PM/view?usp=drivesdk)
 - 📫 Reach me at:
 
