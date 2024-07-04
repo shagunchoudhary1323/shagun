@@ -37,10 +37,8 @@
 * PostgreSQL
 * Redis
 * MongoDB
-
-** Education:**
-
-* B.Tech (Computer Science) - R.D. Engineering College, Ghaziabad (CGPA: 8.9/10)
+### Education: 
+B.Tech in Computer Science (CGPA: 8.9/10)
 
 
 <!-- - 🔭 Currently working on the [Denama](https://www.denama.com) WebApp.
